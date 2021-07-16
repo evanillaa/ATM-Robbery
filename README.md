@@ -1,3 +1,8 @@
+DONT DOWNLOAD FIXING IT. COUPLE ERRORS WITH GIVING MONEY ETC.
+
+
+
+
 # ATM-Robbery
 nb_atm_rob edit and changed to support core_dispach &amp; nopixel hacking minigame
 
